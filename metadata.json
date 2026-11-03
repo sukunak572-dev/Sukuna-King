@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Concierge & Android APK System",
+  "description": "JARVIS AI mobile command center, progressive web app, and direct Android APK download system by Adam boys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
